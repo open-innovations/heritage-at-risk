@@ -1,0 +1,20 @@
+layout: template/page.vto
+
+# Override the site logo colour here. Any CSS colour will work.
+logo_colour: white
+logo_colour_icon: "%23722EA5"
+
+# Override the header class here. See https://open-innovations.org/brand for colour classes
+header_class: c8-bg
+
+# Automatically adds meta and social tags 
+# See https://lume.land/plugins/metas/
+metas:
+  site: UK Constituency Data Hex Maps
+  title: "$ title"
+  description: "=description || Mapping data for UK Westminster Constituencies on hex cartograms"
+  image: https://open-innovations.org/resources/images/logos/oi-square.png
+  twitter: openinnovates
+  lang: en
+  keywords: [data, hex, map, hexmap, constituencies]
+  theme-color: "#722ea5"

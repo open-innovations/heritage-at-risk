@@ -1,0 +1,17 @@
+# Lume site
+_site/
+
+# I've had problems with deno.lock. It's in my bad books.
+deno.lock
+
+data-raw/
+raw-data/
+
+# Anthing temporary
+*temp/
+
+# Ignore profiles
+*.heapprofile
+*.cpuprofile
+
+__pycache__
