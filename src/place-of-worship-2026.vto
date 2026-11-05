@@ -41,7 +41,7 @@ layout: template/embed-national-churches-trust.vto
 					"name": "URL",
 					"template": "https://members.parliament.uk/member/{{ ID }}/contact"
 				}],
-				"value": "Count",
+				"value": "2026",
 				"scale": "#ffffcc 0%, #f4be49 20%, #e3051f 50%, #291009 100%",
 				"min": 0,
 				"max": 20,
@@ -73,9 +73,18 @@ layout: template/embed-national-churches-trust.vto
 					"panzoom": {
 						"maxZoom": 4,
 						"scrollWheelZoom": false
+					},
+					"slider": {
+						"columns": [
+							{"value":"2024","label":"2024"},
+							{"value":"2025","label":"2025"},
+							{"value":"2026","label":"2026"}
+						],
+						"width": "500px",
+						"position": "bottom"
 					}
 				},
-				"tooltip": "<strong>{{ PCON24NM }}</strong><div class=\"info\" style=\"border-color:{{ BG }};\"><a href=\"{{ URL }}\" target=\"_parent\">{{ MP }}</a> ({{ Party }})<br />Places of worship at risk: <strong>{{ Count | toLocaleString() }}</strong><br /><a href=\"https://historicengland.org.uk/listing/heritage-at-risk/search-register/results/?size=n_24_n&filters%5B0%5D%5Bfield%5D=constituency&filters%5B0%5D%5Bvalues%5D%5B0%5D={{ HAR name }}&filters%5B0%5D%5Btype%5D=all&filters%5B1%5D%5Bfield%5D=assessmentType&filters%5B1%5D%5Bvalues%5D%5B0%5D=Place of worship&filters%5B1%5D%5Btype%5D=all\" target=\"_parent\">More details</a></div>",
+				"tooltip": "<strong>{{ PCON24NM }}</strong><div class=\"info\" style=\"border-color:{{ BG }};\"><a href=\"{{ URL }}\" target=\"_parent\">{{ MP }}</a> ({{ Party }})<br />Places of worship at risk: <strong>{{ 2026 | toLocaleString() }}</strong><br /><a href=\"https://historicengland.org.uk/listing/heritage-at-risk/search-register/results/?size=n_24_n&filters%5B0%5D%5Bfield%5D=constituency&filters%5B0%5D%5Bvalues%5D%5B0%5D={{ HAR name }}&filters%5B0%5D%5Btype%5D=all&filters%5B1%5D%5Bfield%5D=assessmentType&filters%5B1%5D%5Bvalues%5D%5B0%5D=Place of worship&filters%5B1%5D%5Btype%5D=all\" target=\"_parent\">More details</a></div>",
 				"attribution": "Data: <a href=\"https://historicengland.org.uk/advice/heritage-at-risk/search-register/annual-heritage-at-risk-registers-and-maps/\">Heritage at Risk 2026 Register</a> (Historic England)"
 			}
 		}) }}
@@ -109,11 +118,11 @@ layout: template/embed-national-churches-trust.vto
 				"layers": [{
 					"type": "data",
 					"key": "PCON24CD",
-					"value": "Count",
+					"value": "2026",
 					"scale": "#ffffcc 0%, #f4be49 20%, #e3051f 50%, #291009 100%",
 					"min": 0,
 					"max": 20,
-					"tooltip": "<strong>{{ PCON24NM }}</strong><div class=\"info\" style=\"border-color:{{ BG }};\"><a href=\"{{ URL }}\" target=\"_parent\">{{ MP }}</a> ({{ Party }})<br />Places of worship at risk: <strong>{{ Count | toLocaleString() }}</strong><br /><a href=\"https://historicengland.org.uk/listing/heritage-at-risk/search-register/results/?size=n_24_n&filters%5B0%5D%5Bfield%5D=constituency&filters%5B0%5D%5Bvalues%5D%5B0%5D={{ HAR name }}&filters%5B0%5D%5Btype%5D=all&filters%5B1%5D%5Bfield%5D=assessmentType&filters%5B1%5D%5Bvalues%5D%5B0%5D=Place of worship&filters%5B1%5D%5Btype%5D=all\" target=\"_parent\">More details</a></div>"
+					"tooltip": "<strong>{{ PCON24NM }}</strong><div class=\"info\" style=\"border-color:{{ BG }};\"><a href=\"{{ URL }}\" target=\"_parent\">{{ MP }}</a> ({{ Party }})<br />Places of worship at risk: <strong>{{ 2026 | toLocaleString() }}</strong><br /><a href=\"https://historicengland.org.uk/listing/heritage-at-risk/search-register/results/?size=n_24_n&filters%5B0%5D%5Bfield%5D=constituency&filters%5B0%5D%5Bvalues%5D%5B0%5D={{ HAR name }}&filters%5B0%5D%5Btype%5D=all&filters%5B1%5D%5Bfield%5D=assessmentType&filters%5B1%5D%5Bvalues%5D%5B0%5D=Place of worship&filters%5B1%5D%5Btype%5D=all\" target=\"_parent\">More details</a></div>"
 				}],
 				"legend":{
 					"position": "top right",
@@ -188,7 +197,7 @@ layout: template/embed-national-churches-trust.vto
 				"data": "HAR2026",
 				"columns":[{
 					"name": "Places of worship at risk",
-					"template": "{{ Count }}",
+					"template": "{{ 2026 }}",
 					"align": "center",
 					"scale": "#ffffcc 0%, #f4be49 20%, #e3051f 50%, #291009 100%",
 					"min": 0,
