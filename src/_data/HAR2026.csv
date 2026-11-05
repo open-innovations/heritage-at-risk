@@ -30,9 +30,9 @@ E14001090,Bicester and Woodstock,Bicester and Woodstock,Calum Miller,LD,Liberal 
 E14001091,Birkenhead,Birkenhead,Alison McGovern,Lab,Labour,4083,#d50000,0
 E14001092,Birmingham Edgbaston,Birmingham Edgbaston,Preet Kaur Gill,Lab,Labour (Co-op),4603,#d50000,0
 E14001093,Birmingham Erdington,Birmingham Erdington,Paulette Hamilton,Lab,Labour,4938,#d50000,0
-E14001094,Birmingham Hall Green and Moseley,Birmingham Hall Green and Moseley,Tahir Ali,Lab,Labour,4747,#d50000,2
+E14001094,Birmingham Hall Green and Moseley,Birmingham Hall Green and Moseley,Tahir Ali,Lab,Labour,4747,#d50000,1
 E14001095,Birmingham Hodge Hill and Solihull North,Birmingham Hodge Hill and Solihull North,Liam Byrne,Lab,Labour,1171,#d50000,0
-E14001096,Birmingham Ladywood,Birmingham Ladywood,Shabana Mahmood,Lab,Labour,3914,#d50000,7
+E14001096,Birmingham Ladywood,Birmingham Ladywood,Shabana Mahmood,Lab,Labour,3914,#d50000,6
 E14001097,Birmingham Northfield,Birmingham Northfield,Laurence Turner,Lab,Labour,5234,#d50000,1
 E14001098,Birmingham Perry Barr,Birmingham Perry Barr,Ayoub Khan,Ind,Independent,5357,#909090,2
 E14001099,Birmingham Selly Oak,Birmingham Selly Oak,Al Carns,Lab,Labour,5235,#d50000,0
@@ -56,7 +56,7 @@ E14001116,Bournemouth West,Bournemouth West,Jessica Toale,Lab,Labour,5202,#d5000
 E14001117,Bracknell,Bracknell,Peter Swallow,Lab,Labour,5165,#d50000,0
 E14001118,Bradford East,Bradford East,Imran Hussain,Lab,Labour,4394,#d50000,2
 E14001119,Bradford South,Bradford South,Judith Cummins,Lab,Labour,4391,#d50000,0
-E14001120,Bradford West,Bradford West,Naz Shah,Lab,Labour,4409,#d50000,3
+E14001120,Bradford West,Bradford West,Naz Shah,Lab,Labour,4409,#d50000,2
 E14001121,Braintree,Braintree,Sir James Cleverly,Con,Conservative,4366,#0063ba,1
 E14001122,Brent East,Brent East,Dawn Butler,Lab,Labour,1489,#d50000,3
 E14001123,Brent West,Brent West,Barry Gardiner,Lab,Labour,146,#d50000,0
@@ -81,7 +81,7 @@ E14001141,Buckingham and Bletchley,Buckingham and Bletchley,Callum Anderson,Lab,
 E14001142,Burnley,Burnley,Oliver Ryan,Lab,Labour (Co-op),5135,#d50000,1
 E14001143,Burton and Uttoxeter,Burton and Uttoxeter,Jacob Collier,Lab,Labour,5077,#d50000,0
 E14001144,Bury North,Bury North,Mr James Frith,Lab,Labour,4637,#d50000,2
-E14001145,Bury South,Bury South,Christian Wakeford,Lab,Labour,4871,#d50000,2
+E14001145,Bury South,Bury South,Christian Wakeford,Lab,Labour,4871,#d50000,1
 E14001146,Bury St Edmunds and Stowmarket,Bury St. Edmunds and Stowmarket,Dr Peter Prinsley,Lab,Labour,5163,#d50000,4
 E14001147,Calder Valley,Calder Valley,Josh Fenton-Glynn,Lab,Labour,5295,#d50000,2
 E14001148,Camborne and Redruth,Camborne and Redruth,Perran Moon,Ind,Independent,5208,#909090,1
@@ -191,7 +191,7 @@ E14001251,Gorton and Denton,Gorton and Denton,Hannah Spencer,Green,Green Party,5
 E14001252,Gosport,Gosport,Dame Caroline Dinenage,Con,Conservative,4008,#0063ba,1
 E14001253,Grantham and Bourne,Grantham and Bourne,Gareth Davies,Con,Conservative,4850,#0063ba,7
 E14001254,Gravesham,Gravesham,Dr Lauren Sullivan,Lab,Labour,5269,#d50000,0
-E14001255,Great Grimsby and Cleethorpes,Great Grimsby and Cleethorpes,Melanie Onn,Lab,Labour,4464,#d50000,1
+E14001255,Great Grimsby and Cleethorpes,Great Grimsby and Cleethorpes,Melanie Onn,Lab,Labour,4464,#d50000,0
 E14001256,Great Yarmouth,Great Yarmouth,Rupert Lowe,RB,Restore Britain,5158,#4d4d4d,7
 E14001257,Greenwich and Woolwich,Greenwich and Woolwich,Matthew Pennycook,Lab,Labour,4520,#d50000,2
 E14001258,Guildford,Guildford,Zöe Franklin,LD,Liberal Democrat,5313,#fc7d0b,1
@@ -242,7 +242,7 @@ E14001302,Ipswich,Ipswich,Jack Abbott,Lab,Labour (Co-op),5131,#d50000,0
 E14001303,Isle of Wight East,Isle of Wight East,Joe Robertson,Con,Conservative,5255,#0063ba,5
 E14001304,Isle of Wight West,Isle of Wight West,Richard Quigley,Lab,Labour,5144,#d50000,5
 E14001305,Islington North,Islington North,Jeremy Corbyn,YP,Your Party,185,#ff3131,1
-E14001306,Islington South and Finsbury,Islington South and Finsbury,Emily Thornberry,Lab,Labour,1536,#d50000,7
+E14001306,Islington South and Finsbury,Islington South and Finsbury,Emily Thornberry,Lab,Labour,1536,#d50000,6
 E14001307,Jarrow and Gateshead East,Jarrow and Gateshead East,Kate Osborne,Lab,Labour,4783,#d50000,3
 E14001308,Keighley and Ilkley,Keighley and Ilkley,Robbie Moore,Con,Conservative,4861,#0063ba,0
 E14001309,Kenilworth and Southam,Kenilworth and Southam,Sir Jeremy Wright,Con,Conservative,1560,#0063ba,9
@@ -290,7 +290,7 @@ E14001350,Makerfield,Makerfield,Andy Burnham,Lab,Labour (Co-op),1427,#d50000,0
 E14001351,Maldon,Maldon,Sir John Whittingdale,Con,Conservative,39,#0063ba,1
 E14001352,Manchester Central,Manchester Central,Lucy Powell,Lab,Labour (Co-op),4263,#d50000,7
 E14001353,Manchester Rusholme,Manchester Rusholme,Afzal Khan,Lab,Labour,4671,#d50000,2
-E14001354,Manchester Withington,Manchester Withington,Jeff Smith,Lab,Labour,4456,#d50000,4
+E14001354,Manchester Withington,Manchester Withington,Jeff Smith,Lab,Labour,4456,#d50000,2
 E14001355,Mansfield,Mansfield,Steve Yemm,Lab,Labour,5194,#d50000,1
 E14001356,Melksham and Devizes,Melksham and Devizes,Brian Mathew,LD,Liberal Democrat,5214,#fc7d0b,2
 E14001357,Melton and Syston,Melton and Syston,Edward Argar,Con,Conservative,4362,#0063ba,19
@@ -313,7 +313,7 @@ E14001373,New Forest East,New Forest East,Sir Julian Lewis,Con,Conservative,54,#
 E14001374,New Forest West,New Forest West,Sir Desmond Swayne,Con,Conservative,55,#0063ba,0
 E14001375,Newark,Newark,Robert Jenrick,RUK,Reform UK,4320,#12b6cf,14
 E14001376,Newbury,Newbury,Mr Lee Dillon,LD,Liberal Democrat,5310,#fc7d0b,2
-E14001377,Newcastle upon Tyne Central and West,Newcastle upon Tyne Central and West,Dame Chi Onwurah,Lab,Labour,4124,#d50000,4
+E14001377,Newcastle upon Tyne Central and West,Newcastle upon Tyne Central and West,Dame Chi Onwurah,Lab,Labour,4124,#d50000,3
 E14001378,Newcastle upon Tyne East and Wallsend,Newcastle upon Tyne East and Wallsend,Mary Glindon,Lab,Labour,4126,#d50000,3
 E14001379,Newcastle upon Tyne North,Newcastle upon Tyne North,Catherine McKinnell,Lab,Labour,4125,#d50000,0
 E14001380,Newcastle-under-Lyme,Newcastle-under-Lyme,Adam Jogee,Lab,Labour,5168,#d50000,0
@@ -340,7 +340,7 @@ E14001400,North Warwickshire and Bedworth,North Warwickshire and Bedworth,Rachel
 E14001401,North West Cambridgeshire,North West Cambridgeshire,Sam Carling,Lab,Labour,5308,#d50000,6
 E14001402,North West Essex,North West Essex,Mrs Kemi Badenoch,Con,Conservative,4597,#0063ba,4
 E14001403,North West Hampshire,North West Hampshire,Kit Malthouse,Con,Conservative,4495,#0063ba,0
-E14001404,North West Leicestershire,North West Leicestershire,Amanda Hack,Lab,Labour,5149,#d50000,6
+E14001404,North West Leicestershire,North West Leicestershire,Amanda Hack,Lab,Labour,5149,#d50000,7
 E14001405,North West Norfolk,North West Norfolk,James Wild,Con,Conservative,4787,#0063ba,10
 E14001406,Northampton North,Northampton North,Lucy Rigby,Lab,Labour,5333,#d50000,0
 E14001407,Northampton South,Northampton South,Mike Reader,Lab,Labour,5316,#d50000,0
@@ -364,9 +364,9 @@ E14001424,Penrith and Solway,Penrith and Solway,Markus Campbell-Savours,Lab,Labo
 E14001425,Peterborough,Peterborough,Andrew Pakes,Lab,Labour (Co-op),5243,#d50000,2
 E14001426,Plymouth Moor View,Plymouth Moor View,Fred Thomas,Lab,Labour,5174,#d50000,0
 E14001427,Plymouth Sutton and Devonport,Plymouth Sutton and Devonport,Luke Pollard,Lab,Labour (Co-op),4682,#d50000,0
-E14001428,"Pontefract, Castleford and Knottingley","Pontefract, Castleford and Knottingley",Yvette Cooper,Lab,Labour,420,#d50000,2
+E14001428,"Pontefract, Castleford and Knottingley","Pontefract, Castleford and Knottingley",Yvette Cooper,Lab,Labour,420,#d50000,1
 E14001429,Poole,Poole,Neil Duncan-Jordan,Lab,Labour,5359,#d50000,0
-E14001430,Poplar and Limehouse,Poplar and Limehouse,Apsana Begum,Lab,Labour,4790,#d50000,4
+E14001430,Poplar and Limehouse,Poplar and Limehouse,Apsana Begum,Lab,Labour,4790,#d50000,3
 E14001431,Portsmouth North,Portsmouth North,Amanda Martin,Lab,Labour,5294,#d50000,1
 E14001432,Portsmouth South,Portsmouth South,Stephen Morgan,Lab,Labour,4653,#d50000,2
 E14001433,Preston,Preston,Sir Mark Hendrick,Lab,Labour (Co-op),473,#d50000,3
@@ -489,7 +489,7 @@ E14001549,Tonbridge,Tonbridge,Tom Tugendhat,Con,Conservative,4462,#0063ba,0
 E14001550,Tooting,Tooting,Dr Rosena Allin-Khan,Lab,Labour,4573,#d50000,0
 E14001551,Torbay,Torbay,Steve Darling,LD,Liberal Democrat,5066,#fc7d0b,2
 E14001552,Torridge and Tavistock,Torridge and Tavistock,Sir Geoffrey Cox,Con,Conservative,1508,#0063ba,15
-E14001553,Tottenham,Tottenham,Mr David Lammy,Lab,Labour,206,#d50000,4
+E14001553,Tottenham,Tottenham,Mr David Lammy,Lab,Labour,206,#d50000,3
 E14001554,Truro and Falmouth,Truro and Falmouth,Jayne Kirkham,Lab,Labour (Co-op),5279,#d50000,3
 E14001555,Tunbridge Wells,Tunbridge Wells,Mike Martin,LD,Liberal Democrat,5219,#fc7d0b,0
 E14001556,Twickenham,Twickenham,Munira Wilson,LD,Liberal Democrat,4776,#fc7d0b,0
